@@ -1,5 +1,5 @@
 # Web-Scraping-from-Equity-Master
-In this project, I created a python script to collect data from Equity Master (https://www.equitymaster.com/), and store it in a text file, for further analysis.
+In this project, I created a python script to collect data from **870 different pages** from Equity Master (https://www.equitymaster.com/), and store it in a text file, for further analysis.
 
 ### Steps
 1. Importing  libraries
@@ -64,3 +64,7 @@ with open(date,'w') as f:
 
 winsound.Beep(720,720)
 ```
+5. Output <br>
+![image](https://user-images.githubusercontent.com/41999180/124986166-f493c180-e058-11eb-88ba-3164950e68b4.png)
+
+##### Output is stored  in text file uploaded in this repository.
